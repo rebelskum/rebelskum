@@ -1,5 +1,5 @@
 ## Hi, I'm Jette! 
-- 🤓 I am an Apprentice Engineer at Linkedin
+- 🤓 I am an Apprentice UI Engineer at Linkedin
 - 🌱 I’m currently learning Ember Octane
 - ❤️ I love to snowboard and mountain bike
 
