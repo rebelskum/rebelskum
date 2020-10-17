@@ -1,4 +1,13 @@
+## Hi, I'm Jette! 
+- 🤓 I am an Apprentice Engineer at Linkedin
+- 🌱 I’m currently learning Ember Octane
+- ❤️ I love to snowboard and mountain bike
+
+**********
+## My Github Stats
+*******
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rebelskum&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebelskum&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rebelskum/rebelskum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
