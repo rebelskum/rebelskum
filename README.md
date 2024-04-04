@@ -1,6 +1,7 @@
 ## Hi, I'm Jette! 
 - 🤓 I am a Frontend Engineer at Linkedin
-- 🌱 I’m currently learning Ember Octane
+- 👩🏻‍💻 I primarily code in Javascript using Ember Octane
+- 🌱 I'm currently lerning React
 - ❤️ I love snowboarding, mountain biking, and anything Star Wars 
 - ⚡ Fun fact: I'm also a personal trainer 💪🏼
 
