@@ -1,7 +1,7 @@
 ## Hi, I'm Jette! 
-- 🤓 I am a Frontend Engineer at Linkedin
-- 👩🏻‍💻 I primarily code in Javascript using Ember Octane
-- 🌱 I'm currently lerning React
+- 🤓 I am a Frontend Engineer at Tanagram
+- 👩🏻‍💻 I primarily code in Javascript
+- 🌱 I'm currently learning React and to own features end-to-end into the backend
 - ❤️ I love snowboarding, mountain biking, and anything Star Wars 
 - ⚡ Fun fact: I'm also a personal trainer 💪🏼
 
