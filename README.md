@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I primarily code in Javascript
 - 🌱 I'm currently owning features end-to-end from frontend into the backend
 - ❤️ I love snowboarding, mountain biking, and anything Star Wars 
-- ⚡ Fun fact: I'm also a personal trainer 💪🏼
+- ⚡ Fun fact: I'm also a sponsored athlete 💪🏼
 
 ## My Github Stats
 
